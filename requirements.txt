@@ -1,0 +1,12 @@
+kafka
+pandas
+tensorflow
+fastapi
+plotly
+scikit-learn
+numpy
+scipy
+matplotlib
+statsmodels
+pydantic
+requests
